@@ -39,8 +39,6 @@ Severity: (1)
 ### Hammer
 When mousing over a heading, the heading color only changes slightly, from a dark grey to a lighter gray. This may be difficult for users with vision troubles to see what heading they are about to select and ensure that they are clicking on what they intend to click on. However, after clicked, the heading color changes to blue, indicating what page the user is on. Severity: (1)
 
-![ham-header](ham-1.jpg)
-
 ## 2. Match between system and the real world
 
 ### YourBenefitsNow
