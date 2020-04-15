@@ -24,7 +24,7 @@ After completing the tasks, the participant took a post-test survey asking about
 Please find the user testing survey [here](https://forms.gle/LLMfWbvbPLoibYNu9).
 
 ### Pilot Usability Testing Video
-Please find the pilot usability testing video [here](https://drive.google.com/file/d/14A3mAZVfNMvqBtF3c8KyJOxf7S1dmFGx/view?usp=sharing).
+Please find the pilot usability testing video [here](https://drive.google.com/open?id=14A3mAZVfNMvqBtF3c8KyJOxf7S1dmFGx).
 
 ### Reflection
 The pilot usability test helped me gained more insight on usability concerns for the YourBenefitsNow website. While the participant was able to complete all tasks, he expressed frustration in some features of the website's design that made the completing the tasks inefficient, such as the need for the cursor to be hovering directly over the menu to view all choices. He also shared annoyance when trying to return to the website's home page and the need to log in again every time after clicking the YourBenefitsNow logo, thinking it would route him back to the home page. He didn't, however, express the dissatisfaction in the lack of a site path when navigating to various pages, which was a significant finding during the heuristic evaluation. 
