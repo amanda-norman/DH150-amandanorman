@@ -47,7 +47,7 @@
   Please find my Contextual Inquiry Guide [here] (https://docs.google.com/document/d/1QE17YL0vEmyEbCfugJE5p_BTSvX7Izmbpn3uIhTitxI/edit?usp=sharing).
   
   #### User Data - Audio File and Transcript
-  Please find the audio recording of the interview [here] (https://drive.google.com/file/d/16mAYXjTO6L791FmJNiyIiRHbawBfhmSf/view?usp=sharing).
+  Please find the audio recording of the interview [here](https://drive.google.com/file/d/16mAYXjTO6L791FmJNiyIiRHbawBfhmSf/view?usp=sharing).
   
   Please find the interview transcript [here] (https://docs.google.com/document/d/1is4VAI9UJT-7IgEY0wr_0ZOD-bGNeJc8jD1-Dq7noCg/edit?usp=sharing). 
   
