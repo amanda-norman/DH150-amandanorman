@@ -18,7 +18,7 @@
 
 	Limitations of traditional solutions of phone or in-person office contact with DPSS include long wait times and inconvenient hours of operation. The ability to access information with digital technology minimizes the inconvenience of these limitations, allowing users to view important information, submit necessary documents, or send a message directly to a caseworker at any time they wish, without spending hours on-hold during a call or in a waiting room at the office.
 
-### Step 02: Target users 
+#### Step 02: Target users 
 * ##### What are the characteristics of users? (ex. demographics, preference, expertise)
 
   ###### Demographic:
@@ -39,7 +39,7 @@
   To submit an application for government benefits or submit required documentation (i.e. income verification, household size, etc), users would either need to visit the DPSS office to collect and submit a physical copy of the application or create an online account on YourBenefitsNow to submit an application and additional required documents.
   For users that already have an active case and want to know details about their case status and benefit amount, they would need to call DPSS customer service and speak to a representative  or create a YourBenefitsNow account and attempt to find the information online.
 
-### Step 03: Pick Observation Method
+#### Step 03: Pick Observation Method
   I conducted participatory observation research through an interview with a peer who identifies with my target demographic of users. Details of the interview and materials used can be found in the following sections.
 
 ### Participatory Research Materials:
