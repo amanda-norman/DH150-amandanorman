@@ -28,7 +28,8 @@
 
   ###### Preference:
   * Users who currently receive or are interested in government benefits must  
-  * Expertise: Users should have basic computer literacy (i.e. know how to access the internet).
+  ###### Expertise: 
+  * Users should have basic computer literacy (i.e. know how to access the internet).
  
 * ##### Where would the users do that activity? (i.e., context of use)
 
