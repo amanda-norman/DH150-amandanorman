@@ -51,6 +51,18 @@
   
   Please find the interview transcript [here](https://docs.google.com/document/d/1is4VAI9UJT-7IgEY0wr_0ZOD-bGNeJc8jD1-Dq7noCg/edit?usp=sharing). 
   
+### Insights from Data
+* #### Confusion due to unexpected categorization
+[when asked about satisfaction of finding the document upload section:]
+###### (12:35) "Okay, um, that one I think was also very confusing because it wasn't very intuitive where it was, where it was supposed to be like I would think it would be under Document Submission because you're submitting a document but it's actually under communications. So, the way it was like categorized was not easy to understand."
+
+* #### User's thoughts on who this website might be particularly difficult for
+###### (15:30) "I think, Well, I think, like, my parents who are not very like technically literate, I feel like they would have a really difficult time trying to navigate it like, even for me, having more experience like with technology I still had trouble, like navigating the site so I couldn't imagine like someone who didn't really know how to use technology try to use this website."
+
+* #### User's thoughts on overall improvement
+###### (16:00) "I think just like making it look more minimal and like streamlining the process for finding what you need to find like quickly, and just making it also more modern looking."
+
+
 ### Reflection
 The contextual inquiry process was very insightful, as I was able to observe and gather information from another user in addition to the Pilot Usability Test (UT). It felt a bit more natural and conversational than the Pilot UT, which I sensed made the participant feel more comfortable. It was helpful to acquire background information about the user's experience with the public service and website because it put their interaction with the website in context. I was able to better understand some pain points regarding not only the the complexity of navigating the site, but the public service in general, such as the inconvenience when trying to contact the DPSS office. When planning the contextual inquiry and interview process, I struggled a bit in differentiating the participants' tasks from the Pilot Usability Test and as a result, was unsure if I was conducting the interview process correctly. The tasks felt like they might be too specific for this exercise, so next time, I will try to come up with tasks and topics that feel more broad. It would be interesting to be a participant myself in a contextual inquiry interview like this to take note of the topics and activities that might be asked of me.
   
