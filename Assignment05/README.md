@@ -5,3 +5,11 @@ The purpose of UX storytelling is to empathize with
 efnoerhglierg
 ### Personas + Scenarios
 #### 1. Kara
+![kara-persona](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Kara-Persona.png)
+##### Scenario
+###### Intention/Why
+###### Action/How
+#### 2. Jonathan
+![Jonathan-persona](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Jonathan-Persona.png)
+#### 3. Brian
+
