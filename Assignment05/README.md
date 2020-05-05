@@ -12,4 +12,4 @@ efnoerhglierg
 #### 2. Jonathan
 ![Jonathan-persona](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Jonathan-Persona.png)
 #### 3. Brian
-![Brian-persona](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Brian.png)
+![Brian-persona](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Brian-Persona.png)
