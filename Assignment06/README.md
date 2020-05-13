@@ -44,5 +44,10 @@ Based on my user research and personas, I created several features and potential
 
 The purpose of this low-fidelity prototype is to illustrate the re-imagined design of the YBN website by showcasing the flow of the tasks mentioned above.  
 
-### Wireframes
+### Wireframes and Wireflow
 
+Please find my entire low-fidelity prototype [here](https://freehand.invisionapp.com/freehand/document/TqcuKAunu).
+
+![wireflow-full](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wireflow-full.png)
+
+![wire-1](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wire-1.png)![wire-2](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wire-2.1.png)![wire-3](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wire-5.png)![wire-4](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wire-6.1.png)
