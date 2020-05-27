@@ -1,4 +1,4 @@
-# Assignment 06: Low-Fidelity Prototype
+# Assignment 07: High-Fidelity Prototype
 ## Amanda Norman, DH 150 Spring 2020
 
 The project is a redesign of the YourBenefitsNow website, an online self-service portal from the Los Angeles Department of Public Social Services that allows users to check the status of and complete tasks related to their government benefits. The purpose of this prototyping stage is to create a high-fidelity mockup of the graphical user interface and the user flow of the product that incorporates improved design features. In creating this prototype, the designer(s) is able to visually construct their idea and create the flow of the product in order to experiment with design features and functionality.  
