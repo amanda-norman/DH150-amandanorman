@@ -38,22 +38,22 @@ The purpose of UX storytelling is to gain a better understanding of typical, pot
 ### Wireframe and graphic design element variation 
 
 #### Low-fidelity prototype 
-The purpose of this low-fidelity prototype is to illustrate the re-imagined design of the YBN website that incorporates insights from my user research and improved design features. [Read More...] (https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment06)
+The purpose of this low-fidelity prototype is to illustrate the re-imagined design of the YBN website that incorporates insights from my user research and improved design features. [Read More...](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment06)
 
 
 
 #### High-fidelity prototype 
-The purpose of this prototyping stage is to create a high-fidelity mockup of the graphical user interface and the user flow of the product that incorporates improved design features. In creating this prototype, the designer(s) is able to visually construct their idea and create the flow of the product in order to experiment with design features and functionality. [Read More...] (https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment07)
+The purpose of this prototyping stage is to create a high-fidelity mockup of the graphical user interface and the user flow of the product that incorporates improved design features. In creating this prototype, the designer(s) is able to visually construct their idea and create the flow of the product in order to experiment with design features and functionality. [Read More...](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment07)
 
 <iframe width="1000" height="520" src="https://xd.adobe.com/embed/6595b4dc-c76f-467d-404b-50a635c2572a-13a4/?fullscreen" frameborder="0" allowfullscreen></iframe>
 
 ### Evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
 #### Impression Test
-I conducted an impression test to gauge whether or not users understood what the website would be used for and to gain insight on initial thoughts of the website.  [Read More...] (https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment07)
+I conducted an impression test to gauge whether or not users understood what the website would be used for and to gain insight on initial thoughts of the website.  [Read More...](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment07)
 
 #### Cognitive Walkthrough
-To gain some insight into my prototype's functionality, usability and GUI consistency, I conducted a cognitive walkthrough. [Read More...] (https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment07)  
+To gain some insight into my prototype's functionality, usability and GUI consistency, I conducted a cognitive walkthrough. [Read More...](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment07)  
 
 
 ### Pitch video 
