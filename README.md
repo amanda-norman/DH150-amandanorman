@@ -37,7 +37,7 @@ To better understand users' past experiences and tailor the redesign to users' n
 The purpose of UX storytelling is to gain a better understanding of typical, potential users of your product by empathizing with them. I imagined three different personas of users I might expect to use my product, visualizing how they might think, feel, and use the product. I thought of potential frustrations and motivations each user might have to try to gain a different perspective on how my website could be useful. This activity helped me expand my viewpoint outside myself by attempting to identify with the potential use cases of prospective users. 
 
 #### 1. Kara
-![kara-persona](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Kara-Persona.png)
+![kara-persona](Kara-Persona.png)
 
 #### Kara's Journey Map
 ![kara-journey](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Persona_2.png)
