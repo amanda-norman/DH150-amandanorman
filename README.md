@@ -125,6 +125,9 @@ From this impression test, I learned that the user was able to understand the ba
 Through this cognitive walkthrough, I found that the user was able to successfully complete all tasks without running into any issues. There was nothing that was confusing to this user and she was able to cancel or back-flow successfully. The user expressed that she thought the design features, like the buttons, were clearly labeled and easy to understand. She also mentioned that she liked how the website reviewed user’s actions before submitting, like the document submission and the application, so that users could double-check their information, prevent mistakes and ensure everything is accurate. [Read More...](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment07)
 
 
+### Pitch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9qsOpARftc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Conclusion
 The UX design process exposed me to the importance of user research and data-driven design. The data and insight I received from conducting the user interviews and usability testing was instrumental to ensuring that my redesign was tailored to users' motivations and goals. The research aspect involved in the human-centered design process helped me establish a design vision with a data-driven and user-informed purpose.
 
