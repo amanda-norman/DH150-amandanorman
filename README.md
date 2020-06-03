@@ -40,19 +40,19 @@ The purpose of UX storytelling is to gain a better understanding of typical, pot
 ![kara-persona](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/Kara-Persona.png)
 
 #### Kara's Journey Map
-![kara-journey](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Persona_2.png)
+![kara-journey](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/Persona_2.png)
 
 #### 2. Jonathan
-![Jonathan-persona](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Jonathan-Persona.png)
+![Jonathan-persona](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/Jonathan-Persona.png)
 
 #### Jonathan's Journey Map
-![Jonathan-journey](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Persona_1.png)
+![Jonathan-journey](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/Persona_1.png)
 
 #### 3. Brian
-![Brian-persona](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Brian-Persona.png)
+![Brian-persona](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/Brian-Persona.png)
 
 #### Brian's Journey Map
-![Brian-journey](https://github.com/amanda-norman/DH150-amandanorman/blob/master/Persona_3.png)
+![Brian-journey](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/Persona_3.png)
 
 [Read More about my UX storytelling...](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment05)
 
@@ -97,9 +97,9 @@ Based on my user research and personas, I created several features and potential
 5. Chat with a DPSS bot to ask questions.
 [Read More...](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment06)
 
-![wireflow-full](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wireflow-full.png)
+![wireflow-full](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/wireflow-full.png)
 
-![wire-1](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wire-1.png)![wire-2](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wire-2.1.png)![wire-3](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wire-5.png)![wire-4](https://github.com/amanda-norman/DH150-amandanorman/blob/master/wire-6.1.png)
+![wire-1](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/wire-2.1.png)![wire-3](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/wire-5.png)![wire-4](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/wire-6.1.png)
 
 
 
@@ -114,7 +114,7 @@ Interact with my prototype below:
 ### Evaluation and revision history 
 
 #### Impression Test and Cognitive Walkthrough
-![submit-doc](https://github.com/amanda-norman/DH150-amandanorman/blob/master/submit-doc.png)
+![submit-doc](https://raw.githubusercontent.com/amanda-norman/DH150-amandanorman/master/submit-doc.png)
 
 To gain some insight into my prototype's functionality, usability and GUI consistency, as well as gauge whether or not users understood what the website would be used for, I conducted an impression test and cognitive walkthrough. 
 
