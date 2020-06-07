@@ -27,10 +27,7 @@ The purpose of usability testing is to assess a website's interface and its usab
 * Lack of site path after navigating to certain pages, making it difficult to trace steps and return directly to a specific page
 * Misleading links that direct to completely different webpages, positioned in places where the user would expect something different
 
-I conducted a pilot usability test to evaluate how the design of the YourBenefitsNow website might affect a user's ability to perform basic tasks and functions that the website offers. View the pilot usability testing video below and [read more here.](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment02)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6DTxtSfdIM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+I conducted a pilot usability test to evaluate how the design of the YourBenefitsNow website might affect a user's ability to perform basic tasks and functions that the website offers. [Read more here.](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment02)
 
 ### User Research
 To better understand users' past experiences and tailor the redesign to users' needs, I conducted contextual inquiry. I asked contextual background questions to gain a sense of the participant’s interaction with the website and observed the participant complete a few basic tasks on the website. I also asked the participant about any challenges they have experienced when using the website. This exercise helped me gather more insights from a different perspective about how a typical user navigates the website in hopes of creating a better user experience. [Read More...](https://github.com/amanda-norman/DH150-amandanorman/tree/master/Assignment04)
